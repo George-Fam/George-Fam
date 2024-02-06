@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George-Fam
+- 👋 Hi, I’m [George Fam](https://github.com/George-Fam)
 - 👀 I’m interested in NLP, Games, Image Generation, Cybersecurity, etc.
 - 🌱 I’m currently learning Computer Science at UQAM
 - 😄 Pronouns: He/Him
